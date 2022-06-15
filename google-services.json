@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1059856885005",
+    "project_id": "proiect-dsd",
+    "storage_bucket": "proiect-dsd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059856885005:android:a4edc2eb98ed1acb983c44",
+        "android_client_info": {
+          "package_name": "com.dsd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059856885005-1ahtslfahuorr1tfpjdcvc82uek8ttb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsd",
+            "certificate_hash": "5d372b7d80a9ea0ac16480dc2a750d9025a75cf0"
+          }
+        },
+        {
+          "client_id": "1059856885005-mtjr76uqnkn6cut2f45ceilieimdh515.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHERrbRSxUN8P5yz2ertBWu40ep0-SDN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059856885005-mtjr76uqnkn6cut2f45ceilieimdh515.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
